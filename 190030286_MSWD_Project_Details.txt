@@ -1,0 +1,7 @@
+Team Lead ID-NUMBER  : 190030286
+Team Lead Name       : CHEKURI MOHAN VAMSI
+Team Member ID-NUMBER: 190031152
+Team Member Name     : N.HEMANTH SATHISH REDDY
+Project ID           : WD-MSWD35
+Project Title        : OFFLINE IMAGE  COMPRESSOR
+Completion Percentage: 60%
